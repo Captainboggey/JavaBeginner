@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/sazza/OneDrive/Documents/NetBeansProjects/BeginnerJava01/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sazza/OneDrive/Documents/NetBeansProjects/BeginnerJava01/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BeginnerJava01 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BeginnerJava01 1.0-SNAPSHOT API'
+beginnerjava
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\src\main\java = 1727553877139
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\allclasses-index.html = 1727722518646
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\allpackages-index.html = 1727722518648
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\element-list = 1727722518556
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\help-doc.html = 1727722518672
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\index-all.html = 1727722518667
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\index.html = 1727722518670
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\member-search-index.js = 1727722518652
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\module-search-index.js = 1727722518650
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\overview-tree.html = 1727722518630
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\package-search-index.js = 1727722518650
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\search.html = 1727722518668
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\tag-search-index.js = 1727722518653
+C:\Users\sazza\OneDrive\Documents\NetBeansProjects\BeginnerJava01\target\reports\apidocs\type-search-index.js = 1727722518652
